@@ -67,21 +67,17 @@ accuracy
 
 ## Output:
 ## Head():
-
-![image](https://github.com/user-attachments/assets/169fec4a-a86b-4504-9b3d-e7b2738b168b)
+![Screenshot 2024-11-14 223912](https://github.com/user-attachments/assets/f3879ef0-822d-4788-9714-abf408781585)
 
 ## Info():
+![Screenshot 2024-11-14 223918](https://github.com/user-attachments/assets/8b6ecc8e-5ad4-4b18-883f-77cfbf53fbac)
 
-![image](https://github.com/user-attachments/assets/2b903aa2-7226-42c2-afae-03b12ebcbc65)
+## Y-Predict:
+![Screenshot 2024-11-14 223852](https://github.com/user-attachments/assets/c9aaf67b-529d-4ea4-9ce9-9910acefbb83)
 
-
-![image](https://github.com/user-attachments/assets/5d6c9720-b536-496b-9d8d-8c201dab4002)
-
-![image](https://github.com/user-attachments/assets/d6994dbd-4c5f-4df5-8845-99a68656b101)
 
 ## Accuracy:
-
-![image](https://github.com/user-attachments/assets/dba52b05-04e6-4fd6-b7d9-c965d651cece)
+![Screenshot 2024-11-14 223857](https://github.com/user-attachments/assets/ed90aa85-544b-41ae-84fa-be9234571e7f)
 
 
 ## Result:
